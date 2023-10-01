@@ -1,1 +1,1 @@
-# workout-application
+# workout-app
